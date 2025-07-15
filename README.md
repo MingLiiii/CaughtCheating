@@ -102,7 +102,7 @@ lower than the human performance, indicating the current boundary of MLLMs’ ca
 | Human | 56.0 | / | 68.0 | 63.6 | 56.0 | 59.6 |
 
 
-### Response Examples
+### Case Study
 
 Case studies of the models’ performance on the CaughtCheating examples. 3 representative models
 are selected, including GPT-o3, GPT-4o and InternVL2.5-1B, and 3 images are selected: (a) A difficult Clued image,
