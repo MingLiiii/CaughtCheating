@@ -43,10 +43,6 @@ Recent agentic Multi-Modal Large Language Models (MLLMs) such as GPT-o3 have ach
 
 ### Exploring the Boundary of Visual Perception and Reasoning
 
-<p align="center" width="100%">
-<a ><img src="images/example_llm_can_do.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
-</p>
-
 Demonstration of GPT-o3’s multimodal visual-reasoning breadth. (a) Visual search: locating Waldo
 in a densely populated illustration. (b) Visual search for camouflage: spotting a nearly invisible copperhead snake
 hidden among dry leaves. (c) GeoGuessr: identifying the upper terminal of Chair 1 at New Mexico, and estimating
@@ -54,18 +50,31 @@ its latitude/longitude from a single image. (d) TimeGuesser: dating the photogra
 signage and period vehicles to museum and heritage records. These examples highlight o3’s strong visual perception
 and reasoning capacity across various visual tasks that most humans can not accomplish.
 
-### Annotation Example
-
 <p align="center" width="100%">
-<a ><img src="images/example_annotation.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="images/example_llm_can_do.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
+
+### Annotation Example
 
 An example of the annotation for the "Clued" category. Each image is annotated with a general
 question assessing overall suspicion and decomposed questions focused on a deterministic clue (here, the feminine
 bow hair accessory). Decomposed questions include perception-based inquiries (clue identification) and reasoningbased inquiries (social implications and contradictions), all annotated with the expected answer "yes".
 
+<p align="center" width="100%">
+<a ><img src="images/example_annotation.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
 
 ### Performance
+
+The accuracies, IoU on the Clued category, and the accuracy on the Unclued category, and the overall
+precision, recall, and F1 score. Models are grouped by parameter size and type (open-source vs. proprietary). Clued
+Acc and IoU represent the capability of MLLMs to identify the suspicious clues, which directly reflects the MLLMs’
+visual perception and reasoning abilities. Even the best performing model, GPT-o3, only achieves 26.0% accuracy
+and 17.2% IoU, indicating the current boundary of MLLMs’ capabilities. Unclued Acc represents the capability
+of MLLMs to not generate any suspicious clues if the image is unclued. F1 score shows the overall capability of
+MLLMs on CaughtCheating, where GPT-o3, achieves only 23.9%. The highest F1 score is 23.9%, which is much
+lower than the human performance, indicating the current boundary of MLLMs’ capabilities.
 
 | Model | Clued |  | Unclued | Overall |  |  |
 |-------|-------|-------|---------|---------|-------|-------|
@@ -92,24 +101,16 @@ bow hair accessory). Decomposed questions include perception-based inquiries (cl
 |   |   |   |   |   |   |   |
 | Human | 56.0 | / | 68.0 | 63.6 | 56.0 | 59.6 |
 
-The accuracies, IoU on the Clued category, and the accuracy on the Unclued category, and the overall
-precision, recall, and F1 score. Models are grouped by parameter size and type (open-source vs. proprietary). Clued
-Acc and IoU represent the capability of MLLMs to identify the suspicious clues, which directly reflects the MLLMs’
-visual perception and reasoning abilities. Even the best performing model, GPT-o3, only achieves 26.0% accuracy
-and 17.2% IoU, indicating the current boundary of MLLMs’ capabilities. Unclued Acc represents the capability
-of MLLMs to not generate any suspicious clues if the image is unclued. F1 score shows the overall capability of
-MLLMs on CaughtCheating, where GPT-o3, achieves only 23.9%. The highest F1 score is 23.9%, which is much
-lower than the human performance, indicating the current boundary of MLLMs’ capabilities.
 
 ### Response Examples
-
-<p align="center" width="100%">
-<a ><img src="images/example_answers.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
-</p>
 
 Case studies of the models’ performance on the CaughtCheating examples. 3 representative models
 are selected, including GPT-o3, GPT-4o and InternVL2.5-1B, and 3 images are selected: (a) A difficult Clued image,
 (b) An easy Clued image, and (c) An Unclued image. The models’ responses are truncated for better visualization.
+
+<p align="center" width="100%">
+<a ><img src="images/example_answers.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
 
 ## Evaluation
 
