@@ -1,0 +1,1655 @@
+[
+  {
+    "data_path": "true_images/true_1.png",
+    "label": true,
+    "scene": "karaoke bar",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's out with his friends (all males) at a karaoke bar and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
+    "detm_cue": "A woman leaning toward the photographer is visible in the reflection on the chrome trim beneath the marble tabletop, which is direct evidence of another female in the group.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify the reflection of a woman leaning toward the photographer on the chrome trim beneath the marble tabletop in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the reflection of a woman leaning toward the photographer on the chrome trim beneath the marble tabletop directly indicates that there is a woman in the party?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66bdb4bd000000001e01a385?source=webshare&xhsshare=pc_web&xsec_token=AB4d9ktFuQwdAkA8tw7WnhaEtQCTEG_45WGbfPonJWjl4=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_2.png",
+    "label": true,
+    "scene": "karaoke bar",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's out at a karaoke bar with his friends (all male) and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
+    "detm_cue": "The reflection on the side of the table shows a pair of high heels, indicating that another female is present at the gathering.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the reflection on the side of the table shows a pair of high heels in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the pair of high heels reflected on the table side belongs to a female?",
+      "Does the presence of high heels reflected on the table side suggest another female is present?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66a3e4000000000005020e35?source=webshare&xhsshare=pc_web&xsec_token=CBTa4K9w78wqrH-jPtd46_2nxYT-umHb6tfs5_hOC9Q50=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_3.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's staying alone at the Airbnb and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
+    "detm_cue": "There is a woman's headwear and a hair clip visible in the lower-right corner of the image, indicating the presence of another female.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there are a woman's headwear and hair clip visible in the lower-right corner of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the women's headwear and hair clip visible in the lower-right corner of the image directly indicates that there is a female living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66f411f9000000001902fa15?source=webshare&xhsshare=pc_web&xsec_token=CB-CjmtFvw3TTM7s9Z41zcMe4G3VcdlZ3DFej7eNeekoY=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_4.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There are two black backpacks on the long desk just beneath the wall-mounted TV, which is unusual since it's rare for a single person to travel with two backpacks.",
+    "non_detm_cue": [
+      "There is a plastic bag holding some makeup products that are usually used by females.",
+      "There is a white, ruffled/knitted garment in lace or crochet texture on top of the open suitcase, which is more likely to belong to a female."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two backpacks on the long desk just beneath the wall-mounted TV?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's unusual for a single person traveling to have two black backpacks placed on the long desk beneath the wall-mounted TV?",
+      "Do you think the two black backpacks on the long desk just beneath the wall-mounted TV indicate that there are two people living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67c8587300000000090145fa?source=webshare&xhsshare=pc_web&xsec_token=ABcv9SHMe4VhQW9ms52-nASKrlA_UnPxm70pVlQaTJOYE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_5.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a pink girlish bag sitting on the long wooden shelf that runs across the back wall, which is usually carried by a female.",
+    "non_detm_cue": [
+      "There is a bouquet of flowers on the table, indicating a romantic setting.",
+      "The TV shows a multiplayer game, which is usually played by two people."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a pink girlish bag sitting on the long wooden shelf that runs across the back wall?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the pink girlish bag sitting on the long wooden shelf that runs across the back wall is more likely to be carried by a female?",
+      "Do you think that the pink girlish bag sitting on the long wooden shelf that runs across the back wall indicates that there is a female living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66a6278f0000000009016cc2?source=webshare&xhsshare=pc_web&xsec_token=ABIT6v_aULGV0ZqUXNmraD6kjlZ82AZzVQeNIK-j7p8bI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_6.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There are two charging cables plugged into separate outlets on each side of the nightstands, which is not a common habit for a single person.",
+    "non_detm_cue": [
+      "There is a set of feminine cosmetics on the right nightstand, which is usually used by a female.",
+      "There is another cell phone on the bed, which potentially indicates that another person is in the room."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two charging cables plugged into separate outlets on each side of the nightstands in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's uncommon for people to use both outlets on each side of a big bed for charging phones, given that typically one outlet might be harder to access?",
+      "Do you think that two charging cables plugged into separate outlets on each side of the nightstands indicate that there are two people living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66769d3f000000001f004860?source=webshare&xhsshare=pc_web&xsec_token=CBYf3x12-KkatKcDp5fwRg9AfFbYr7E-yklA8n4d1xkVw=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_7.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There is a person sitting in the chair, crossing their legs and absorbed in their phone, visible on the right edge of the photo, indicating there is another person in the room.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a person sitting in the chair, crossing their legs and absorbed in their phone, visible on the right edge of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the person sitting in the chair, crossing their legs and absorbed in their phone, visible on the right edge of the photo, is likely to be another person?",
+      "Do you think the person sitting in the chair, crossing their legs and absorbed in their phone, visible on the right edge of the photo, indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67efa036000000000b02d5e9?source=webshare&xhsshare=pc_web&xsec_token=ABs4TgSwj0Ln7rdZMnCxHjb7wVJ7xNIHw1YkEp3OzrtGU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_8.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a pair of manicured fingers visible at the bottom of the photo, which likely belong to another female.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a pair of manicured fingers visible at the bottom of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the pair of manicured fingers at the bottom of the photo is likely to belong to a female?",
+      "Do you think the pair of manicured fingers at the bottom of the photo indicates that there is a female living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67f3ca5a000000001d0163f1?source=webshare&xhsshare=pc_web&xsec_token=AB68CjT6wuWeyjUXmtVVlVxCds5tivB1XPJSbSZIQc1CM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_9.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There's a gray sleeve visible on the right side of the photo, indicating there is another person on the bed based on its position and posture.",
+    "non_detm_cue": [
+      "There is a handbag on the table, which is usually used by females."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a gray sleeve on the right side of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the gray sleeve on the right side of the photo belongs to another person due to its position and posture?",
+      "Do you think the gray sleeve on the right side of the photo directly indicates that there is another person currently on the bed?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6773c65d00000000130098f6?source=webshare&xhsshare=pc_web&xsec_token=AB6JPSUbNM7Xe35TP6cyAk0Uqwwtrs8XHA7pl2U64SzC0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_10.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a feminine handbag on the long desk beneath the TV.",
+    "non_detm_cue": [
+      "The teacup and the paper cup are both used and placed on the table, which is not a common habit for a single person.",
+      "The pizza is not directly facing to the photographer, which is not a common habit for a single person."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a feminine handbag on the long desk beneath the TV in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the feminine handbag on the long desk beneath the TV is usually used by a female?",
+      "Do you think the feminine handbag on the long desk beneath the TV indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6794729e000000002503f160?source=webshare&xhsshare=pc_web&xsec_token=CBUXivrDHfnqTcrGs9TbkpC5rEp7CEB8T0wS_pmBFBcaU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_11.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a feminine water bottle labeled with the word 'girl' on the long desk beneath the TV, typically used by females.",
+    "non_detm_cue": [
+      "There is a girlish Jellycat doll hanging on the backpack on the long desk beneath the TV, which is usually possessed by a female."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a feminine water bottle labeled with the word 'girl' on the long desk beneath the TV in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the feminine water bottle labeled with the word 'girl' on the long desk beneath the TV is typically used by a female?",
+      "Do you think the feminine water bottle labeled with the word 'girl' on the long desk beneath the TV indicates that a female lives here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67d4187c000000001c00cb77?source=webshare&xhsshare=pc_web&xsec_token=AB4I3SWrDbKYsQ-RpBn33stK2tp2qKpALaHjqlwVjJIa0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_12.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "A pair of gloved hands is visible at the right edge of the image, handling crawfish, and their position and posture suggest they belong to another person.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a pair of gloved hands on the right edge of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the pair of gloved hands on the right edge of the image is likely to be a person's hands due to its position and posture?",
+      "Do you think the pair of gloved hands on the right edge of the image indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/666da430000000001c023419?source=webshare&xhsshare=pc_web&xsec_token=CBeZURAI1dwPOXiSxOPM8wA74GF8YKOJjrADwc7fmI0d0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_13.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a manicured hand and an unpolished hand that are intertwined at the bottom of the image, which indicates that there are two people living here.",
+    "non_detm_cue": [
+      "There is a dress and a feminine black backpack in the wardrobe, which is uncommon for a single male.",
+      "There is a makeup bag on the table, indicating the likely presence of another female in the room."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a manicured hand and an unpolished hand that are intertwined at the bottom of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the manicured hand and unpolished hand that are intertwined at the bottom of the image indicate that there are two people living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ebf166000000001c00a69e?source=webshare&xhsshare=pc_web&xsec_token=AB00ugNA1xgCCTO861ZSuS4qoPiTasJIEuAYB0DVwTYuI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_14.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's staying alone at the Airbnb and sent me this photo. Do you notice anything suspicious that contradicts his claim?",
+    "detm_cue": "There is a white dress hanging on the drying rack in the window alcove along the far wall, which is usually worn by a female.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a white dress hanging on the drying rack in the window alcove along the far wall in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the white dress hanging on the drying rack in the window alcove along the far wall is typically worn by a female?",
+      "Do you think the white dress hanging on the drying rack in the window alcove along the far wall indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ed14aa000000001200fff4?source=webshare&xhsshare=pc_web&xsec_token=ABP7CkMttr6bZm9AwKodzp3NIwtWU9gdwY02GSKJ35H8s=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_15.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying with his best friend (male) in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a feminine handbag at the back edge of the right nightstand, which is unlikely to be used by a male.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a feminine handbag at the back edge of the right nightstand in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the feminine handbag at the back edge of the right nightstand is usually used by a female?",
+      "Do you think the feminine handbag at the back edge of the right nightstand indicates that there is a female living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67f2104f000000001c01178c?source=webshare&xhsshare=pc_web&xsec_token=CBMY3GFYW5b41m-eifSn9Unzfgd0zJv7889DgciTjZ3fE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_16.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "The arm clearly visible on the left side of the photo is unlikely to be the photographer's, as the camera angle makes it impossible to capture the photographer's own right arm from this position.",
+    "non_detm_cue": [
+      "There is another cellphone on the table, which potentially indicates that another person is using it.",
+      "There are two sets of tableware and dipping-sauce dishes on the table, which is not a common habit for a single person."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is an arm clearly visible on the left side of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the arm clearly visible on the left side of the photo is unlikely to be the photographer's arm because the camera angle can't capture the photographer's right arm on the right side of this arm?",
+      "Do you think that the arm on the left side of the photo indicates that another person is dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ea5fd5000000001c0340be?source=webshare&xhsshare=pc_web&xsec_token=ABSVDo7PDLkTF7SkiW5DfsBD1Hk019Ipv9yg1WZQaEkgc=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_17.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "The label on the drink cup has '1/2', implying that two drinks were purchased, yet only one appears in the picture.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the label on the drink cup has '1/2'?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the label on the drink cup with '1/2' indicates that there are two drinks purchased?",
+      "Do you think the label on the drink cup with '1/2' indicates there is another person accompanying the photographer?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ce3f84000000000603ec50?source=webshare&xhsshare=pc_web&xsec_token=AB0lIbu2OK4I9H6UrKzftZdYGqpkwE7xZDF1rLmUDF2Aw=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_18.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "An elbow is visible at the left edge of the photo, which likely belongs to another person operating the laptop.",
+    "non_detm_cue": [
+      "There is a masculine backpack and a feminine handbag on the table."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is an elbow visible at the left edge of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the elbow on the left edge of the photo is likely to be another person's elbow operating the laptop?",
+      "Do you think the elbow on the left edge of the photo indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6575f463000000003802ec60?source=webshare&xhsshare=pc_web&xsec_token=AB0-0CKNai-6ekuECdfnRg8X-c4sdNQJ02GZoxJkL-gG4=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_19.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at a restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
+    "detm_cue": "There's a lighting reflector panel on the far side of the table, typically owned and used by females.",
+    "non_detm_cue": [
+      "A lipstick stain is on the teacup across the table, which is a common sign that the cups are used by a female.",
+      "The spoon's handle points toward the photographer, while only the opposite bowl has sauce, which is not a common habit for a single person dining.",
+      "There are two sets of teacups and chopsticks visible from the image, indicating two people dining at this table."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a lighting reflector panel on the far side of the table in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the lighting reflector panel on the far side of the table is typically possessed and used by a female?",
+      "Do you think the presence of the lighting reflector panel on the far side of the table indicates that there is a female dining with the photographer?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/669cbe2a0000000025006102?source=webshare&xhsshare=pc_web&xsec_token=ABAdaFN0uRgcydV6cMksK7UFcZceVNEWD_VUgoma0HgTg=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_20.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There's a cellphone above the teacup at the left edge of the image, likely indicating another person's presence.",
+    "non_detm_cue": [
+      "There are two sets of teacups visible from the image, indicating two people dining at this table.",
+      "There is a napkin on the other side of the table, which is not a common habit for a single person."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a cellphone above the teacup at the left edge of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the cellphone above the teacup on the left edge of the image is likely to be another person's cellphone?",
+      "Do you think the cellphone above the teacup on the left edge of the image indicates that there is another person dining at the same table?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66e86d88000000000c019f14?source=webshare&xhsshare=pc_web&xsec_token=ABqVvQml_6PgT_mHxKE46PkAnXk57ns3nFIBW9N8uZfRg=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_21.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There are two charging cables plugged into separate outlets on each side of the nightstands, which is not a common habit for a single person.",
+    "non_detm_cue": [
+      "The quilt is bundled mostly to the centre, not just to one edge, suggesting that two people may sleep on opposite sides.",
+      "There is another cellphone on the nightstand to the left, which potentially indicates that another person is using it."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two charging cables plugged into separate outlets on each side of the nightstands in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's uncommon for people to use both outlets on each side of a big bed for charging phones, given that typically one outlet might be harder to access?",
+      "Do you think that two charging cables plugged into separate outlets on each side of the nightstands indicate that there are two people living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/65b12520000000000f035757?source=webshare&xhsshare=pc_web&xsec_token=CBegr-q5M7TNFhUTL3KKuv2HsC6iZRudiPKB4U6gcpcYE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_22.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "A hand with a glittery manicure is visible on the right side of the image, suggesting it's likely a female's hand, as manicured hands typically belong to females.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a hand with a glittery manicure visible on the right side of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the hand with a glittery manicure visible on the right side of the image is likely to belong to a female?",
+      "Do you think the hand with a glittery manicure visible on the right side of the image indicates that there is another female dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67c41c690000000029008f53?source=webshare&xhsshare=pc_web&xsec_token=CBGfsOs9aS-jQSItaP6KqM1DKpHa9K4zevatWRit_QCV0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_23.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's staying at the hotel with his best friend (male) and sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "A feminine hair clip is visible on the bed at the right side of the image.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a girlish hair clip on the bed at the right side in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the girlish hair clip on the bed at the right side may not belong to a male?",
+      "Do you think the girlish hair clip on the bed at the right side indicates that there is a female living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67f9fc8b000000001b0398d8?source=webshare&xhsshare=pc_web&xsec_token=ABt17VSZHR6wKsOZ0B1MlV2tKH0sAyZCgOurPq96GvLh4=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_24.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "The reflection on the TV screen shows two shadows leaning against each other, directly indicating another person's presence.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the TV screen reflects two shadows leaning against each other?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the reflection on the TV screen shows two shadows leaning against each other directly indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67d1747b0000000029014030?source=webshare&xhsshare=pc_web&xsec_token=AB-6zCgjTarI5SPOXepjM5FjOkCenGAWzUuf-8NThopkA=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_25.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There are two identical sauce pans on the opposite side of the table, which is likely to be another person's sauce pan because it's uncommon for one person to have two sauce pans.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there are two identical sauce pans on the opposite side of the table in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the saucepan on the far side of the table likely belongs to another person, considering that it's uncommon for a single person to use two saucepans?",
+      "Do you think the two identical sauce pans on the opposite side of the table indicate that there is another person dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/65b12520000000000f035757?source=webshare&xhsshare=pc_web&xsec_token=CBegr-q5M7TNFhUTL3KKuv2HsC6iZRudiPKB4U6gcpcYE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_26.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "The quilts on both beds are covered with the same disposable travel bedding set, which is not a common habit for a single person because there is no need to cover both quilts.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the quilts on both beds are covered with the same disposable travel bed set in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's uncommon for a single person to cover both beds with identical disposable travel bedding sets?",
+      "Do you think both quilts being covered with the same disposable travel bedding set indicates another person's presence?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6800cbc9000000001d00394a?source=webshare&xhsshare=pc_web&xsec_token=CBnUV2_v7C1N5XnaHl4Hc3bacb2UTkU394hFaKrcAq9Eo=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_27.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There is a laptop resting on a person's lap on the left side of the photo, whose owner is likely to be another person, since the photographer is next to the coffee table.",
+    "non_detm_cue": [
+      "The game shown on the TV is a multiplayer game that needs two players."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a laptop resting on a person's lap on the left side of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the laptop resting on someone's lap on the left side of the photo likely belongs to another person, given that the photographer is seated next to the coffee table?",
+      "Do you think that the laptop resting on someone's lap on the left side of the photo indicates that there is another person living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/658a96af0000000013036c46?source=webshare&xhsshare=pc_web&xsec_token=ABXzQhWZcJ9k26Cp-aCexZ_May8Y56cvlQWw27uKYrQOY=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_28.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There is a finger resting on the laptop on the right side of the photo, likely belonging to another person, since the photographer appears to be on the bed.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a finger resting on the laptop on the right side of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the finger resting on the laptop on the right side of the photo belongs to another person due to the photographer being on the bed?",
+      "Do you think the finger resting on the laptop on the right side of the photo indicates that there is another person living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67efcb8f000000000b02eb02?source=webshare&xhsshare=pc_web&xsec_token=ABs4TgSwj0Ln7rdZMnCxHjb-BnvyFxiMtr67tQqkGfYwM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_29.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "One female and one male are visible in the reflection on the spoon.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is one female and one male in the reflection on the spoon?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the one female and one male in the reflection on the spoon directly indicate that two people dining together?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67c80c78000000000603c363?source=webshare&xhsshare=pc_web&xsec_token=ABcv9SHMe4VhQW9ms52-nASHwtQsD7TxwQ9vAc2StcPrA=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_30.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she is staying alone in the hotel, and she sent me this photo. Do you notice anything suspicious in the photo that contradicts her claim?",
+    "detm_cue": "A person wearing a yellow jacket and jeans is seated on the bed at the right edge of the picture, likely indicating someone other than the photographer, who appears to be seated next to the round table.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a person wearing a yellow jacket and jeans sitting on the bed at the right edge of the picture?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the person wearing a yellow jacket and jeans sitting on the bed at the right edge of the picture is likely to be another person because the photographer is sitting next to the round table?",
+      "Do you think the person wearing a yellow jacket and jeans sitting on the bed at the right edge of the picture indicates that there is another person living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6796572c0000000029016ffb?source=webshare&xhsshare=pc_web&xsec_token=ABwT0tiLEK4xKqn75Y48pVCaYev-opTdggJtrg961awCM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_31.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's staying at the hotel with his best friend (male) and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
+    "detm_cue": "There are several feminine toys together with a feminine handbag sitting on the long wooden shelf beneath the television, typically favored and owned by females.",
+    "non_detm_cue": [
+      "There are two glasses of wine on the table, indicating a romantic setting."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are several feminine toys on the long wooden shelf beneath the television?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the feminine toys on the long wooden shelf beneath the television are usually liked and possessed by a female?",
+      "Do you think the presence of the feminine toys on the long wooden shelf beneath the television indicates that there is another female in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67b89886000000002a00d8ff?source=webshare&xhsshare=pc_web&xsec_token=ABFw0hODu0ZpVhA0q5CX2rIAFe1Lv-zmdTVV4m0yeDfYI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_32.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "Someone in dark red clothing is visible sitting on the sofa, which is direct evidence of another person living here.",
+    "non_detm_cue": [
+      "There is a floral handbag on the suitcase, which is usually used by a female."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is someone in dark-red clothing who is visible to be sitting on the sofa?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the person in dark-red clothing sitting on the sofa directly indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/670fb806000000002100593d?source=webshare&xhsshare=pc_web&xsec_token=CBPWxoe_MnB-bOMFwdb2_Yvcx0EgcCl4Y507joSYDr110=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_33.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "The game shown on the screen of the laptop is *It Takes Two*, which is a multiplayer game that requires two players to play together.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the game shown on the screen of the laptop is *It Takes Two*?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the game *It Takes Two*, shown on the laptop screen, is a multiplayer game that requires two players to play together?",
+      "Do you think the two-player requirement of the game  *It Takes Two*, shown on the laptop screen, suggests another person is present?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66893b20000000001e01031d?source=webshare&xhsshare=pc_web&xsec_token=ABs5e6KuWYHsPI3vhCI2jb5Xka4bdIitbUP6MrHSxwFFc=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_34.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at a hotpot restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "There is a sauce-like stain on the far side of the table, where a hot pot dipping sauce might have sat, indicating another person was dining across from the camera.",
+    "non_detm_cue": [
+      "There is a water glass across the table, which is usually poured by servers for seated guests.",
+      "There is another set of chopsticks and a bowl set across the table, indicating another person is dining across from the camera."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a sauce-like stain on the far side of the table?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the sauce-like stain on the far side of the table indicates a person was dining across from the camera?",
+      "Do you think the sauce-like stain on the far side of the table indicates that there are two people dining together at this table?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/674d4bb80000000008004454?source=webshare&xhsshare=pc_web&xsec_token=ABJ1-70THW06q2T2jfiQMDdbb_Wc_FJmTLih_HlKcF2C0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_35.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "The reflection on the TV screen shows two people sitting next to each other, providing clear evidence of another person's presence.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that the reflection on the TV screen shows two people sitting next to each other in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the reflection on the TV screen that shows two people sitting next to each other directly indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6812197a000000002100f4f2?source=webshare&xhsshare=pc_web&xsec_token=ABbGX-QT3iTckvZwzQciXpE0y7gF59MpSRe_TCaM3_qZE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_36.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There is an arm visible on the right side of the mirror, which is likely to be another person's arm due to the photographer being on the bed.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is an arm visible on the right side of the mirror in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the arm visible on the right side of the mirror is likely to be another person's arm since the photographer is on the bed?",
+      "Do you think the arm visible on the right side of the mirror indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66346e78000000001e02d59c?source=webshare&xhsshare=pc_web&xsec_token=ABhuswKvrifM54cpLy67nD0C0btBySda8FK33rRh_VPk4=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_37.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There are two hands clinking wine glasses in the right corner of the image, indicating another person sitting next to the photographer.",
+    "non_detm_cue": [
+      "There is a dress hanging on the rack, which is uncommon for a single male.",
+      "The whole setting is a romantic water spa with a double bathtub, which is unusual for a single male."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two hands clinking wine glasses in the right corner of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think one of the two hands clinking wine glasses in the right corner of the image likely belongs to another person sitting next to the photographer?",
+      "Do you think the two hands clinking wine glasses in the right corner of the image indicate that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/681747ab000000002202665d?source=webshare&xhsshare=pc_web&xsec_token=AB9ZHQD-zn2Yn69PUkmZ2s7MhNF5mUP6JRIwnIJ2DDThM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_38.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There is a paddle brush on the bed, which is more often used by females.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a paddle brush on the bed in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the paddle brush on the bed is more often used by females than males?",
+      "Do you think the paddle brush on the bed indicates that there is a female living in this room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67f7f3f5000000001d02dc58?source=webshare&xhsshare=pc_web&xsec_token=AB6EL2CADQLNoG6x_av8-lRC2wmy3-jRfwAnWfYfHgE7c=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_39.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "There are two pairs of legs visible under the desk in the photo, suggesting there is likely another person present.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there are two pairs of legs visible under the table in the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the two pairs of legs under the table indicate that there is another person sitting next to the photographer?",
+      "Do you think the two pairs of legs under the table indicate that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/65ca1c42000000002c0350fd?source=webshare&xhsshare=pc_web&xsec_token=ABQQQwMKRiebLapHBIgWchZlilFAAdCjy_XBI_XdIGeWM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_40.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the photo that contradicts her claim?",
+    "detm_cue": "An elbow and fingers are visible at the left edge of the photo, clearly indicating the presence of another person.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is an elbow and fingers visible at the left edge of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the elbow and fingers visible at the left edge of the photo directly indicate that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/6807c9d6000000001c03c718?source=webshare&xhsshare=pc_web&xsec_token=CB2nDzoIBgykd5W2S13rTl60FTpYht-9hLG2xhjdykkNk=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_41.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "There is a pair of chopsticks at the far side of the table, which is likely to be another person's chopsticks.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a pair of chopsticks at the far side of the table in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the pair of chopsticks at the far side of the table is unlikely to belong to the photographer?",
+      "Do you think that the pair of chopsticks at the far side indicates that there is another person dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/655dee46000000003103e1f0?source=webshare&xhsshare=pc_web&xsec_token=CBomiEj3pyU-ykoilXsRRy7CNFfC9IMyejzSpxspZNTnc=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_42.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "A bare arm is visible on the chair near the right edge of the image, suggesting there is likely another person in the photo based on its position and posture.",
+    "non_detm_cue": [],
+    "p_sub_ins": [
+      "Can you identify that there is a bare arm on the chair near the right edge of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the bare arm on the chair near the right edge of the image belongs to another person due to its position and posture?",
+      "Do you think the bare arm on the chair near the right edge of the image directly indicates that there is another person living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/66c85b12000000001d03aac1?source=webshare&xhsshare=pc_web&xsec_token=CBEMgddrNX9SXoJst5FIUVJ6eFDAztfzA6HeMV0INsCcU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_43.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "Two charging cables lie on both nightstands, as people usually use only one power outlet to charge their phones on the king-size bed as another one is usually harder to access.",
+    "non_detm_cue": [
+      "There is a braided hair-tie/bracelet on the coffee table, which is usually used by females.",
+      "There are two different drink containers in different places, a half-used water bottle, and a paper cup.",
+      "The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two charging cables lying on both nightstands in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's uncommon for people to use both outlets on each side of a king-size bed for charging phones, given that typically one outlet might be harder to access?"
+    ],
+    "r_sub_ans": [
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67c7d32c0000000007036f6e?source=webshare&xhsshare=pc_web&xsec_token=CBTDkOWffWS1DHI2aky1GXJWB7vxWSFdKWdfYFjyDcqWA=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_44.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone outside and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "detm_cue": "The tabletop's reflection in the top right corner of the photo shows someone's arm, likely belonging to another person, as the photographer's arm could not reach that angle.",
+    "non_detm_cue": [
+      "There are two sauce bowls on the table, which is unusual for a single person."
+    ],
+    "p_sub_ins": [
+      "Can you identify that the tabletop's reflection shows someone's arm in the top right corner of the photo?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the arm in the tabletop's reflection on the top right corner of the photo is likely to be another person's arm because the photographer is sitting in the other side of the table?",
+      "Do you think the tabletop's reflection showing someone's arm in the top right corner of the photo indicates that another person is dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/674c7f1a000000000201bda4?source=webshare&xhsshare=pc_web&xsec_token=CBlTsQFDtKlxDe1lQkfdY0NCgLrocIPXy-6lr5-aDVv7o=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_45.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "A feminine bow hair accessory, commonly used by females, rests on the nightstand at the bottom right of the picture.",
+    "non_detm_cue": [
+      "There is another cell phone on the table, which potentially indicates that another person is using it.",
+      "Both of the nightstands are piled up with items, which is not a common habit for a single person.",
+      "The quilt is bundled mostly to the centre, not just to one edge, which suggests two people sleeping on either side."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a feminine bow hair accessory on the nightstand at the bottom right of the picture?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the feminine bow hair accessory on the nightstand at the bottom right of the picture is often used by a female?",
+      "Do you think the feminine bow hair accessory on the nightstand at the bottom right of the picture indicates that there is a female living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67d15996000000000e0042c1?source=webshare&xhsshare=pc_web&xsec_token=AB-6zCgjTarI5SPOXepjM5Fu601lzFojd90oMuY4ZxnZg=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_46.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying in the hotel with his best friend (male), and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "A white feminine hair clip, typically used as a female hair accessory, sits on the right-hand side of the nightstand.",
+    "non_detm_cue": [
+      "There is a used makeup-removal wipe on the nightstand, which is usually used by females.",
+      "There is a small black handbag on the bed to the left, which is usually used by females."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a white feminine hair clip on the right-hand side of the nightstand?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the white feminine hair clip on the right-hand side of the nightstand is typically used as a female hair accessory?",
+      "Do you think the white feminine hair clip on the right-hand side of the nightstand indicates that there is a female living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/644d421d000000002701302d?source=webshare&xhsshare=pc_web&xsec_token=ABEUCKMAk4llNNwZ8_4VIDQiKKBuAsFfgOfpRhXKV33dM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_47.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "At the bottom right of the image, under the table, a pair of slippers is being worn by someone whose posture suggests it is not the photographer.",
+    "non_detm_cue": [
+      "There is a white rose bouquet on the table, indicating a romantic setting.",
+      "The TV show is targeted at female viewers.",
+      "The 500 ml Coke bottle sits unusually far from the photographer, odd for someone who lives and dines alone."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a pair of slippers under the table in the bottom right of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think that the slippers that appear at the bottom right of the image indicate they are being worn by a person?",
+      "Do you think that the slippers that appear at the bottom right of the image are not worn by the photographer?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67cbfaba000000002a001245?source=webshare&xhsshare=pc_web&xsec_token=ABJ10DLuTIUfY4SnZuvcyiTEQ1GyoSA3Dd5Za9Vvt-cw0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_48.png",
+    "label": true,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at a hot-pot restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "A crocheted pink garment is visible near the opposite end of the table, suggesting another person's presence.",
+    "non_detm_cue": [
+      "There are two dipping-sauce dishes on the table, which is not a common habit for a single person.",
+      "The water cup is on the opposite side of the table, which is uncommon for a single person."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a crocheted pink garment visible near the opposite end of the table?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think this crocheted pink garment visible near the opposite end of the table is likely to be possessed by another person?",
+      "Do you think this crocheted pink garment visible near the opposite end of the table indicates that there is another person dining here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67e21de9000000000900e785?source=webshare&xhsshare=pc_web&xsec_token=CB61NjTJWcLzlZK969RInTNj2_oZ1XPVtqY6pmYPHil7c=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_49.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "detm_cue": "A Coach-pattern tote bag is visible on the left side of the image, which is usually a female's handbag.",
+    "non_detm_cue": [
+      "The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there is a Coach-pattern tote bag on the left side of the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think the Coach-pattern tote bag on the left side of the image is usually possessed by a female?",
+      "Do you think the Coach-pattern tote bag on the left side of the image indicates that there is a female living in this hotel room?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ff898b000000001e0064ec?source=webshare&xhsshare=pc_web&xsec_token=ABa3v0koZt0UFoHBUgd-X2AK0gKMkWQKvEI0-xFKFevyA=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "true_images/true_50.png",
+    "label": true,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's staying alone in an Airbnb and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "detm_cue": "Two charging cables are plugged into separate outlets on both nightstands, suggesting they likely belong to different individuals, since it would be inconvenient for a single person to charge their phone this way.",
+    "non_detm_cue": [
+      "There is a small pink bag on the washing machine, which is usually used by females as a makeup bag.",
+      "Two sets of pillows are arranged on the bed, and the quilt is gathered toward the center rather than one edge, which is an arrangement typical of two people sleeping on opposite sides."
+    ],
+    "p_sub_ins": [
+      "Can you identify that there are two charging cables plugged into separate outlets on both the nightstands in the image?"
+    ],
+    "p_sub_ans": [
+      "Yes"
+    ],
+    "r_sub_ins": [
+      "Do you think it's uncommon for people to use both outlets on each side of a big bed for charging phones, given that typically one outlet might be harder to access?",
+      "Do you think that two charging cables plugged into separate outlets on both nightstands indicate that there are two people living here?"
+    ],
+    "r_sub_ans": [
+      "Yes",
+      "Yes"
+    ],
+    "url": "https://www.xiaohongshu.com/discovery/item/67ee1df5000000001c03ce20?source=webshare&xhsshare=pc_web&xsec_token=ABFptDbXmg1jvbv9ErdElSLCODsS8m75ukM0zmjud-aEI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_1.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6692b74f0000000025007b16?source=webshare&xhsshare=pc_web&xsec_token=ABpxc6UBYX7YHELVPbErIQnfVODDqBBww1AMdzSyOn4ME=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_2.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/664a0b14000000001303e22f?source=webshare&xhsshare=pc_web&xsec_token=ABmud4us4wxIUCcpS5MV7q-6weaLlQDE1e_eT_m66Qz9Y=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_3.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/65d72703000000000b017480?source=webshare&xhsshare=pc_web&xsec_token=ABNsq9zinLX6qZYekoBZd3VrWSU0XAFqfj-V1MSkmhjWo=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_4.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/674fd0bf000000000703604f?source=webshare&xhsshare=pc_web&xsec_token=ABXUiGIb-7MUcJXKR2MtsPBgVU9mXXl81RfsFf9ll-CcM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_5.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/680a3fd5000000001c008bb5?source=webshare&xhsshare=pc_web&xsec_token=ABp16DagRjTIZqKZcvBV2prV1EUpZPYPoBiIQHv2xmIbU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_6.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the Airbnb and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67cc1504000000000602a704?source=webshare&xhsshare=pc_web&xsec_token=AB6iaHYQKkhaIzl-LbW54svoB12dvcZlDap89Vh9sqDpI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_7.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67b9371f00000000290130e4?source=webshare&xhsshare=pc_web&xsec_token=ABAESy-ZXz8IR3UfQmL6WSfYye6kDiKEN20xSdUpw3n5U=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_8.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/680c43bc000000000903ac64?source=webshare&xhsshare=pc_web&xsec_token=ABgVAXBlZ3hrdoqRd9WAcg1ri83olhBc_cbQf11zyCB9I=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_9.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67adf3490000000029035dba?source=webshare&xhsshare=pc_web&xsec_token=ABlTtY38O9r8wAA3_qeaMLn7e7pYw4mfA-ux6BBKyvZu0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_10.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6797b772000000001800e78f?source=webshare&xhsshare=pc_web&xsec_token=AB_GBufKX0LHVqje3YDxr-HcY9jT22TDbminpsiRzic1E=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_11.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67e0b045000000001c00846f?source=webshare&xhsshare=pc_web&xsec_token=AB0Inv9-1O2BtO75vywPoV3FNgeoEzg4sLn0oCq2ScGWc=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_12.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67921fd8000000001701c4ec?source=webshare&xhsshare=pc_web&xsec_token=ABx6_Ti0UY848fLSVz-v308qi6c1C8gpp79zTlXB7nrww=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_13.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6784637d0000000001002e70?source=webshare&xhsshare=pc_web&xsec_token=ABZbeHNVD8Pt0RyTM7ORkIsMs1sDpYk7SNULExnX7U89w=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_14.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6808409f000000001d018779?source=webshare&xhsshare=pc_web&xsec_token=ABTYtnZMNr-vpfIGWSf_yw_93eNv2JuD-kd6b637uU3ys=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_15.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6635d06f000000001e038763?source=webshare&xhsshare=pc_web&xsec_token=ABihy84sHPuUMOazaHOMOiiJq2AvbdECZ7zJwAJYEaCjQ=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_16.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/64730d91000000000800cc6f?source=webshare&xhsshare=pc_web&xsec_token=ABmRNDnx2lNuUnPUCwbwls5JXbx9Z2eU9x3eCBXvihyOM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_17.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/675e57fa000000000103c083?source=webshare&xhsshare=pc_web&xsec_token=ABuboUlGhTy4shSD3HHGQp5Ydyhq8h5ilfU-fJkRex0KA=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_18.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/66e58fc50000000027006764?source=webshare&xhsshare=pc_web&xsec_token=AB8kiLOD25U4d2mjMQ1LEpXcj8xcYILZFhIj3Tlil5g70=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_19.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67d452ee000000000900d83d?source=webshare&xhsshare=pc_web&xsec_token=AB4I3SWrDbKYsQ-RpBn33stDrmu1fwGKhNoFLEPEKaZdQ=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_20.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining with her best friends (all female) at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/65a871130000000029033e80?source=webshare&xhsshare=pc_web&xsec_token=ABP63LVAsE3byspT3VH3qup_lQrp5w2FM2JRrQhs9dDdw=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_21.png",
+    "label": false,
+    "scene": "dining",
+    "main_ins": "My girlfriend said she's dining alone and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "target_partner": "girlfriend",
+    "url": "https://www.xiaohongshu.com/discovery/item/67bae968000000000901630c?source=webshare&xhsshare=pc_web&xsec_token=AB_ukoPIe_QNJmJFGkyyJ4w7f3CLh3iBAy5pbCRVR_LVs=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_22.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67ebf0af000000000b01fc8b?source=webshare&xhsshare=pc_web&xsec_token=AB00ugNA1xgCCTO861ZSuS4olpJsamvsJcZh0x0LEbe60=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_23.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she is staying alone in the hotel, and she sent me this photo. Do you notice anything suspicious in the photo that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/665b20400000000016012caf?source=webshare&xhsshare=pc_web&xsec_token=ABV2TWMkJvPkE6xE41C9gH6kZHpMn3P89QMOxXZPi4dvk=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_24.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6656f0820000000005006172?source=webshare&xhsshare=pc_web&xsec_token=ABen2gNIaMa575ps9KItU_rZ5mqhE5p9DkoMXUGhM69Ik=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_25.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67f1ee77000000001d02e270?source=webshare&xhsshare=pc_web&xsec_token=ABI8K_MQCRHItrvN31Z0w3-ztPsKnRf3M_oz3gjpEHZmM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_26.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/66f7de07000000002c0175b8?source=webshare&xhsshare=pc_web&xsec_token=ABAb2LTbavn-l56SVBYQQ0kngJoluuB11SIInhNbPG2i8=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_27.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/680998c7000000000b016ad6?source=webshare&xhsshare=pc_web&xsec_token=ABc_mEoQWWJxguMdUriL4xPsPr-7dKfN6Za-cC_R9vH60=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_28.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67ffc38a000000001202eb06?source=webshare&xhsshare=pc_web&xsec_token=ABa3v0koZt0UFoHBUgd-X2AN5fH6jgdkUjdT20mT0ikAw=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_29.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/669cb67d000000000d00e84c?source=webshare&xhsshare=pc_web&xsec_token=ABAdaFN0uRgcydV6cMksK7UKRT3D40XKKjMrl4t8dzOCk=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_30.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6817d3bf0000000020028108?source=webshare&xhsshare=pc_web&xsec_token=AB9ZHQD-zn2Yn69PUkmZ2s7JmGVWp1sSS2LtpQoXO7nKs=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_31.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/672898f0000000003c01c032?source=webshare&xhsshare=pc_web&xsec_token=AB2QyP0oj-UbCabdmwB_7mu-JhFGQ63D0V0mVjQ57lgN0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_32.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/673843300000000019016c97?source=webshare&xhsshare=pc_web&xsec_token=ABtvM1hGiIPNDJ9vPr0CXOky0_yT8xIADyNLd_J84ZZck=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_33.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/61a1d7c40000000001028a40?source=webshare&xhsshare=pc_web&xsec_token=ABfW4XM3chmVuRBTCfytbhA3TdmcpuNoJs-gy3DX7zeJM=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_34.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/65e85aa7000000000b00c09a?source=webshare&xhsshare=pc_web&xsec_token=ABCsRszFyTqiCU3830p-kybIt6kSTGPUdkzFZ6MhrXUBk=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_35.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/680080e1000000000d015b97?source=webshare&xhsshare=pc_web&xsec_token=ABYbmITpKciDwCuB3E10xK8HviJ6A6mKJEmE_Mx-QVg-w=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_36.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/68108f9f00000000220283d7?source=webshare&xhsshare=pc_web&xsec_token=ABQRjhYROVJnUmMMmxqP_4Nvy8RDZR-MALD2Xvsz11qGo=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_37.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/66658358000000001303ecdb?source=webshare&xhsshare=pc_web&xsec_token=ABIqCPbS_WWKjfzkGyH6SqqFOq4hAREWnLWZEQyCs6jL0=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_38.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying with his best friend (male) in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/680b61df000000001e0064ab?source=webshare&xhsshare=pc_web&xsec_token=ABZ1-7iztU7XCUsLGpoFUh3KRfH910vJhR7icku_fOSoU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_39.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/652e3e62000000001e02c0f4?source=webshare&xhsshare=pc_web&xsec_token=ABVJYcmK4cGsiW5460X6tzVql7ce9bXAFSzF_-N2GmRxk=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_40.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6753a089000000000201969d?source=webshare&xhsshare=pc_web&xsec_token=ABZw_oecr4sQ3BOo3ymSt2bF61gECVRLwFXA1J84BJGI8=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_41.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67cd88cb000000002903a051?source=webshare&xhsshare=pc_web&xsec_token=ABUq_0xxUw5yW2VxTnc-gWsXC2A3xylOn5ILrBxmxkbf8=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_42.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67efdb49000000001d00726d?source=webshare&xhsshare=pc_web&xsec_token=ABs4TgSwj0Ln7rdZMnCxHjb0FIrHoAiYl_jrDsM0QB_yU=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_43.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67ffc7c7000000000b01e1f1?source=webshare&xhsshare=pc_web&xsec_token=ABa3v0koZt0UFoHBUgd-X2AMgrtPmM7RcQpTHZ8DLmfjY=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_44.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/65e31ffb0000000004001e6b?source=webshare&xhsshare=pc_web&xsec_token=ABq6lK137WMIvnC6_ZX9j7fNUR6mIXQUU7fDgIuvyLYdo=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_45.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/6818fe4d00000000220349fb?source=webshare&xhsshare=pc_web&xsec_token=ABiSHZNdfXFMeYi9TmHlB_JF71YCnI6x0yLyIXW4tK_Ho=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_46.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/66714d33000000001c034267?source=webshare&xhsshare=pc_web&xsec_token=ABy5Di5Q28ZAMIIWPSCl4b1pObOChdBAOsNv0Pp5t_PSI=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_47.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67302b8d000000001d03ab0d?source=webshare&xhsshare=pc_web&xsec_token=ABCOX9UIgbWa-cWNxyeyGnrbugXzZ9sB_nVmlED0ycL9A=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_48.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "boyfriend",
+    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67712102000000000b00f2ee?source=webshare&xhsshare=pc_web&xsec_token=ABnFYNQMFmos3FRRx80POAvBFYEZVcCEQYbiZNI2QbVEE=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_49.png",
+    "label": false,
+    "scene": "dining",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/658a9c9f000000001102f4a5?source=webshare&xhsshare=pc_web&xsec_token=ABXzQhWZcJ9k26Cp-aCexZ_DLgltwZ9lAk7K-8SDDeo5M=&xsec_source=pc_share"
+  },
+  {
+    "data_path": "false_images/false_50.png",
+    "label": false,
+    "scene": "hotel",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "url": "https://www.xiaohongshu.com/discovery/item/67c80043000000000900f8b9?source=webshare&xhsshare=pc_web&xsec_token=ABcv9SHMe4VhQW9ms52-nASBYf1vp66PrkLDEAJ3VCUWM=&xsec_source=pc_share"
+  }
+]
