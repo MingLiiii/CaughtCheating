@@ -116,9 +116,114 @@ are selected, including GPT-o3, GPT-4o and InternVL2.5-1B, and 3 images are sele
 
 ### Folders
 
-### Quick Start with `test_pipeline_gpt4o_simple.py`
+The dataset is structured in a flat, repeatable format for easy evaluation. The folder layout is:
 
-#### Command-line arguments
+```
+dataset/
+├── true_images/
+│   ├── true_1.png
+│   ├── true_2.png
+│   └── ...
+├── false_images/
+│   ├── false_1.png
+│   ├── false_2.png
+│   └── ...
+└── data_info.json
+```
+
+**Key points:**
+
+- `true_images` and `false_images` contain images labeled as true or false respectively.
+- `data_info.json` provides metadata, instructions, labels, and associated URLs for each image.
+
+### `data_info.json` Format (Per-Sample)
+
+```json
+{
+    "data_path": "path/to/image.png",   // Relative path to the image file
+    "label": true,                      // True or false indicating ground truth
+    "scene": "scene description",       // Scene context (e.g., hotel, dining)
+    "target_partner": "partner type",   // Targeted partner (e.g., boyfriend, girlfriend)
+    "main_ins": "Main instruction/question", // Primary instruction or query
+    "detm_cue": "Determinate cue text",       // Determinate cue clearly indicating suspicion
+    "non_detm_cue": [                   // List of non-determinate cues (optional)
+        "cue 1",
+        "cue 2"
+    ],
+    "p_sub_ins": [                      // Perception sub-questions
+        "sub-question 1",
+        "sub-question 2"
+    ],
+    "p_sub_ans": [                      // Answers to perception sub-questions
+        "Yes",
+        "No"
+    ],
+    "r_sub_ins": [                      // Reasoning sub-questions
+        "sub-question 1",
+        "sub-question 2"
+    ],
+    "r_sub_ans": [                      // Answers to reasoning sub-questions
+        "Yes",
+        "No"
+    ]
+}
+```
+
+
+### Quick Start
+
+Follow these steps to prepare your dataset, run inference, and evaluate results:
+
+#### Step 1: Convert Annotations from JSON to JSONL
+
+Convert annotations from standard JSON format (`data_info.json`) to JSONL format.
+
+```bash
+python code/json2jsonl.py --input_file dataset/data_info.json --output_file dataset/data_info.jsonl
+```
+
+**Key arguments:**
+
+* `--input_file`: Path to your original JSON annotations (`data_info.json`).
+* `--output_file`: Path to save converted JSONL annotations (`data_info.jsonl`).
+
+*If your annotations are already in JSONL format, you can skip this step.*
+
+#### Step 2: Run Model Inference
+
+Perform inference using your selected model (e.g., GPT-4o). The inference script processes input annotations and generates predictions.
+
+```bash
+python code/inference.py --root_dir dataset --save_dir gpt4o_results.json --datatype json --model_name gpt-4o --api_key YOUR_API_KEY
+```
+
+**Key arguments:**
+
+* `--root_dir`: Directory containing `data_info.jsonl` and image files (default: `./dataset`).
+* `--save_dir`: Directory to save inference results (default: `gpt4o_results`).
+* `--datatype`: Indicate how images are referenced (`json` by default).
+* `--model_name`: Specify the OpenAI model name to use for inference (e.g., `gpt-4o`, `gpt-4o-mini`). 
+* `--api_key`: Your OpenAI API key (required).
+
+### Step 3: Evaluate Inference Results
+
+Evaluate inference outputs against ground truth to compute metrics and detailed per-sample results.
+
+```bash
+python code/eval.py --input_file gpt4o_results.json --gpt_model gpt-4.1 --output_file evaluation_gpt4o_results.json --api_key YOUR_API_KEY
+```
+
+**Key arguments:**
+
+* `--input_file`: Path to your inference results (`inference_results.json`).
+* `--gpt_model`: Identifier for the model used (`gpt-4.1`).
+* `--output_file`: Path to save evaluation metrics and detailed results (`evaluation_results.json`).
+* `--api_key`: Your OpenAI API key for accessing evaluation services.
+
+Ensure your OpenAI API key or necessary authentication tokens are properly configured before running these commands.
+
+*Ensure the API key or necessary authentication tokens are correctly configured before running the evaluation.*
+
 
 ## Citation
 
