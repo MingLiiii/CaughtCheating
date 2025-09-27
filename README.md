@@ -172,7 +172,7 @@ dataset/
 
 ### Quick Start
 
-Follow these steps to prepare your dataset, run inference, and evaluate results:
+Please follow these steps to prepare your dataset, run inference, and evaluate results:
 
 #### Step 1: Convert Annotations from JSON to JSONL
 
